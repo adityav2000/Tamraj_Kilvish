@@ -1,0 +1,29 @@
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width:5px;
+    border-color:orchid;
+    width: 80%;
+}
+h1 {
+    color:peru;
+    font-size: 60px;
+}
+h4 {
+    color:darkorange;
+}
+label {
+    color:steelblue;
+}
+h2{
+    color:brown;
+}
+h5 {
+    font-size: 20px;
+}
+h6 {
+    font-size: 15px;
+}
+a {
+   color: cyan; 
+ }
