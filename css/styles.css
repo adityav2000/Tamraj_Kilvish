@@ -1,0 +1,22 @@
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width:5px;
+    border-color:orchid;
+    width: 80%;
+}
+h1 {
+    color:peru;
+}
+h4 {
+    color:darkorange;
+}
+label {
+    color:steelblue;
+}
+h2{
+    color:brown;
+}
+a {
+   color: cyan; 
+ }
