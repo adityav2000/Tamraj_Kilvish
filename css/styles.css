@@ -7,6 +7,7 @@ hr {
 }
 h1 {
     color:peru;
+    font-size: 60px;
 }
 h4 {
     color:darkorange;
@@ -16,6 +17,12 @@ label {
 }
 h2{
     color:brown;
+}
+h5 {
+    font-size: 20px;
+}
+h6 {
+    font-size: 15px;
 }
 a {
    color: cyan; 
